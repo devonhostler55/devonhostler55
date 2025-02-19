@@ -1,4 +1,4 @@
-Hi, I'm Devon Hostler
+## Hi, I'm Devon Hostler
 
 I am a **results-driven Full Stack Developer** with **10+ years of experience** specializing in:  
 - **PHP (Laravel & WordPress)**  
@@ -38,5 +38,4 @@ I focus on **custom web applications, API development, e-commerce solutions, and
 
 When starting a **new project**, I prioritize **clear communication** to gain a deep understanding of client needs and project vision. I appreciate your time and consideration and look forward to **collaborating on impactful projects!**  
 
-📫 **Let's Connect:** [devonhostler55@gmail.com![image](https://github.com/user-attachments/assets/4f1df090-d306-453d-9cac-8d0f4415a102)
-]
+📫 **Let's Connect:** [devonhostler55@gmail.com!]
