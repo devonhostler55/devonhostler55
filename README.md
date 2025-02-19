@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey there
+I’m a senior React, Vue.JS, Laravel, and PHP Developer.
 
-<!--
-**devonhostler55/devonhostler55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I do
+I have 8 years of experience designing, developing, and analyzing React, Vue.JS, Laravel, PHP, and client-server technologies-based applications.
 
-Here are some ideas to get you started:
+My Technical Stack
+I use the following programming languages, frameworks and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PHP, Laravel Framework, Node.js.
+Javascript, Typescript, React, Next, Vue.JS, TailwindCSS, Livewire, Tall stack.
+Serverless Framework (AWS, Node.js, DynamoDB, Cloudflare).
+VSCode, Github, Bash, Docker.
