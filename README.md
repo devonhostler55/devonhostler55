@@ -1,13 +1,1 @@
-Hey there
-I’m a senior React, Vue.JS, Laravel, and PHP Developer.
-
-What I do
-I have 8 years of experience designing, developing, and analyzing React, Vue.JS, Laravel, PHP, and client-server technologies-based applications.
-
-My Technical Stack
-I use the following programming languages, frameworks and tools.
-
-PHP, Laravel Framework, Node.js.
-Javascript, Typescript, React, Next, Vue.JS, TailwindCSS, Livewire, Tall stack.
-Serverless Framework (AWS, Node.js, DynamoDB, Cloudflare).
-VSCode, Github, Bash, Docker.
+Devon is a results-driven Full Stack Developer with 10+ years of experience specializing in PHP (Laravel & WordPress), JavaScript (React & Vue), and Python (Django). He focuses on custom web applications, API development, e-commerce solutions, and SaaS platforms, ensuring high performance, scalability, and security. ### **Key Expertise:** - **Custom WordPress & WooCommerce Development** – Advanced plugins, themes, and API integrations - **Laravel & Django for Scalable Applications** – RESTful APIs, SaaS platforms, and automation - **React & Vue.js for Dynamic UI** – High-performance, modern, and interactive web interfaces - **Database & Cloud Solutions** – MySQL, PostgreSQL, AWS, Redis, and Firebase ### **What Sets Him Apart:** - **Custom WordPress Development** – Builds custom themes, plugins, and integrations beyond basic drag-and-drop solutions, optimizing for speed, SEO, and security. - **Laravel Powerhouse** – Expertise in RESTful API development, multi-tenant applications, and SaaS platforms with Laravel. - **React & Vue Frontend Engineering** – Creates dynamic, modern, and interactive UIs with a focus on reusability and performance. - **Python & Django for Scalable Applications** – Architects secure, scalable, and automated solutions using Django, Celery, and PostgreSQL. - **End-to-End Performance Optimization** – Implements database indexing, caching (Redis, Memcached), and AWS solutions for high-traffic applications. - **Security-First Approach** – Ensures data integrity with JWT, OAuth, role-based access control, and advanced security practices. Devon prioritizes understanding client needs and visions when starting new projects, ensuring clear communication and alignment before development. He looks forward to collaborating on impactful projects.
