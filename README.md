@@ -38,4 +38,4 @@ I focus on **custom web applications, API development, e-commerce solutions, and
 
 When starting a **new project**, I prioritize **clear communication** to gain a deep understanding of client needs and project vision. I appreciate your time and consideration and look forward to **collaborating on impactful projects!**  
 
-📫 **Let's Connect:** [devonhostler55@gmail.com!]
+📫 **Let's Connect:** devonhostler55@gmail.com
