@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6575c9a8-a1ea-4d52-aeac-f44881219f38)# 👋 Hi, I'm Devon Hostler
+Hi, I'm Devon Hostler
 
 I am a **results-driven Full Stack Developer** with **10+ years of experience** specializing in:  
 - **PHP (Laravel & WordPress)**  
