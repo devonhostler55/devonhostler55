@@ -3,7 +3,8 @@
 I am a **results-driven Full Stack Developer** with **10+ years of experience** specializing in:  
 - **PHP (Laravel & WordPress)**  
 - **JavaScript (React & Vue)**  
-- **Python (Django)**  
+- **Python (Django)** 
+- - **Ruby on Rails (React)** 
 
 I focus on **custom web applications, API development, e-commerce solutions, and SaaS platforms**, ensuring **high performance, scalability, and security**.  
 
